@@ -1,0 +1,30 @@
+﻿@page
+@model VetEnCasa.App.Frontend.Pages.EditModel
+@{
+    int clienteId=Model.Cliente.Id
+}
+<h2>Edición de los datos del cliente</h2>
+<form method="post">
+    <input type="hidden" asp-for="Clientes.Id"/>
+    <div class="form-group">
+        <label asp-for="Cliente.Telefono"></label>
+        <input asp-for="Cliente.Telefono" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.Telefono"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cliente.Nombres"></label>
+        <input asp-for="Cliente.Nombres" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.Nombres"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cliente.Apellidos"></label>
+        <input asp-for="Cliente.Apellidos" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.Apellidos"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cliente.direccion"></label>
+        <input asp-for="Cliente.direccion" class="form-control">
+        <span class="text-danger" asp-validation-for="Cliente.direccion"></span>
+    </div>
+
+</form>

@@ -1,0 +1,9 @@
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\bin\Debug\netstandard2.0\VetEnCasa.App.Dominio.deps.json
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\bin\Debug\netstandard2.0\VetEnCasa.App.Dominio.dll
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\bin\Debug\netstandard2.0\VetEnCasa.App.Dominio.pdb
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.0\VetEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.0\VetEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.0\VetEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.0\VetEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.0\VetEnCasa.App.Dominio.dll
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Dominio\obj\Debug\netstandard2.0\VetEnCasa.App.Dominio.pdb
