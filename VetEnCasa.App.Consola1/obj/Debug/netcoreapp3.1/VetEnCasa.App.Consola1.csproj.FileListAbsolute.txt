@@ -4,9 +4,11 @@ C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\VetEnCa
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\VetEnCasa.App.Consola1.runtimeconfig.dev.json
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\VetEnCasa.App.Consola1.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\VetEnCasa.App.Consola1.pdb
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -64,5 +66,3 @@ C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\obj\Debug\netcoreapp3.1\VetEnCa
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\obj\Debug\netcoreapp3.1\VetEnCasa.App.Consola1.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\obj\Debug\netcoreapp3.1\VetEnCasa.App.Consola1.pdb
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\obj\Debug\netcoreapp3.1\VetEnCasa.App.Consola1.genruntimeconfig.cache
-C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Consola1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

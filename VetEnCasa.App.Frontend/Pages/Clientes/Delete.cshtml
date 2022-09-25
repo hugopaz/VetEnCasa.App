@@ -1,9 +1,8 @@
 ﻿@page
-@model VetEnCasa.App.Frontend.Pages.EditModel
+@model VetEnCasa.App.Frontend.Pages.DeleteModel
 @{
-    int clienteId=Model.Cliente.Id;
 }
-<h2>Edición de los datos del cliente</h2>
+<h2>Borrado de cliente</h2>
 <form method="post">
     <input type="hidden" asp-for="Cliente.Id"/>
     <div class="form-group">
@@ -26,9 +25,9 @@
         <input asp-for="Cliente.direccion" class="form-control">
         <span class="text-danger" asp-validation-for="Cliente.direccion"></span>
     </div>
-    <button type="submit" class="btn btn-primary">Guardar</button>
+
     
-    @* <button type="submit" class="btn btn-primary">Borrar</button> *@
+    <button type="submit" class="btn btn-primary">Borrar</button>
     
 
 </form>

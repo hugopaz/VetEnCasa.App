@@ -34,7 +34,7 @@ namespace VetEnCasa.App.Persistencia
             }
             return clienteEncontrado;
         }
-        void IRepositorioCliente.DeteleCliente(int idPersona)
+        void IRepositorioCliente.DeleteCliente(int idPersona)
         {
             var clienteEncontrado = _appContext.Clientes.FirstOrDefault(c => c.Id == idPersona);
             if (clienteEncontrado == null)
@@ -51,7 +51,7 @@ namespace VetEnCasa.App.Persistencia
 
         IEnumerable<Cliente> IRepositorioCliente.GetAllClientes()
         {
-            return _appContext.Clientes;
+            return _appContext.Clientes.Include(c => c.Mascotas);
         }
 
     }

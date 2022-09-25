@@ -9,14 +9,14 @@ using VetEnCasa.App.Persistencia;
 
 namespace VetEnCasa.App.Frontend.Pages
 {
-    public class EditModel : PageModel
+    public class DeleteModel : PageModel
     {
         private readonly IRepositorioCliente repositorioClientes;
         [BindProperty]
 
         public Cliente Cliente{set;get;}
 
-        public EditModel()
+        public DeleteModel()
         {
             this.repositorioClientes=new RepositorioCliente(new VetEnCasa.App.Persistencia.AppContext());
         }
@@ -26,10 +26,7 @@ namespace VetEnCasa.App.Frontend.Pages
             {
                 Cliente = repositorioClientes.GetCliente(clienteId.Value);
             }
-            else
-            {
-                Cliente= new Cliente();
-            }
+
             if (Cliente == null)
             {
                 return RedirectToPage("./Notfound");
@@ -49,7 +46,7 @@ namespace VetEnCasa.App.Frontend.Pages
                 if (Cliente.Id>0)
                 {
                     
-                    Cliente= repositorioClientes.UpdateCliente(Cliente);
+                    repositorioClientes.DeleteCliente(Cliente.Id);
                 }
                 else
                 {
@@ -57,6 +54,5 @@ namespace VetEnCasa.App.Frontend.Pages
                 }
                 return Page();
         }
-        
     }
 }

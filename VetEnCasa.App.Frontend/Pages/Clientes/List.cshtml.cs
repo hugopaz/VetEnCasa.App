@@ -24,3 +24,5 @@ namespace VetEnCasa.App.Frontend.Pages
         }
     }
 }
+
+//@ class="fa-solid fa-arrow-right-from-bracket" *@

@@ -1,8 +1,9 @@
 ﻿@page
-@model VetEnCasa.App.Frontend.Pages.DetailsModel
+@model VetEnCasa.App.Frontend.Pages.DetallesModel
 @{
 }
 <h2>Datos detallados del cliente</h2>
+
 <div>
     Nombres: @Model.Cliente.Nombres
 </div>
@@ -15,6 +16,4 @@
 <div>
     Dirección: @Model.Cliente.direccion
 </div>
-<a asp-page=".\List" class="btn-default">Volver a lista de clientes</a>
-
-
+<a asp-page="./List" class="btn-default">Volver a la lista de los clientes</a>

@@ -10,13 +10,18 @@
             <td>@cliente.Nombres</td>
             <td>@cliente.Apellidos</td>
             <td>
-                <a class="btn btn-primary table-btn" asp-page=".\Details" asp-route-clienteId="@cliente.Id">
+                <a class="btn btn-primary table-btn" asp-page=".\Detalles" asp-route-clienteId="@cliente.Id">
                     <i class = "fas fa-info-circle fa-lg"></i>
                 </a>
             </td>
             <td>
                 <a class="btn btn-primary table-btn" asp-page=".\Edit" asp-route-clienteId="@cliente.Id">
                     <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Delete" asp-route-clienteId="@cliente.Id">
+                    <i  aria-hidden="true">Borrar</i>
                 </a>
             </td>
         </tr>

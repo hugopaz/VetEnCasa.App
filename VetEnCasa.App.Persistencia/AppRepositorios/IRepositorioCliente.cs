@@ -10,7 +10,7 @@ namespace VetEnCasa.App.Persistencia
         IEnumerable<Cliente> GetAllClientes();
         Cliente AddCliente(Cliente cliente);
         Cliente UpdateCliente(Cliente cliente);
-        void DeteleCliente(int idCliente);
+        void DeleteCliente(int idCliente);
         Cliente GetCliente(int idCliente);
     }
 }

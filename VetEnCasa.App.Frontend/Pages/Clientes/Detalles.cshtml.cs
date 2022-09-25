@@ -6,22 +6,20 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using VetEnCasa.App.Dominio;
 using VetEnCasa.App.Persistencia;
-//using Microsoft.AspNetCore.Authorization;
 
 namespace VetEnCasa.App.Frontend.Pages
 {
-    public class DetailsModel : PageModel
+    public class DetallesModel : PageModel
     {
         private readonly IRepositorioCliente repositorioClientes;
-
-        public Cliente Cliente {set;get;}
-        public DetailsModel()
+        public Cliente Cliente {set; get;}
+        public DetallesModel()
         {
-            this.repositorioClientes=new repositorioClientes(new VetEnCasa.App.Persistencia.AppContext());
+            this.repositorioClientes=new RepositorioCliente(new VetEnCasa.App.Persistencia.AppContext());
         }
-        public IActionResult OnGet(int clienteId)
+        public IActionResult OnGet(int Id)
         {
-            Cliente = repositorioClientes.GetCliente(clienteId);
+            Cliente = repositorioClientes.GetCliente(Id);
             if(Cliente==null)
             {
                 return RedirectToPage("./NotFound");
@@ -31,6 +29,5 @@ namespace VetEnCasa.App.Frontend.Pages
                 return Page();
             }
         }
-
     }
 }

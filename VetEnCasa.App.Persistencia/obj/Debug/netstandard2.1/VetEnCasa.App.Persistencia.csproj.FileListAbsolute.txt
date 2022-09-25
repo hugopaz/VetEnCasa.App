@@ -1,12 +1,12 @@
-C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.csprojAssemblyReference.cache
-C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.AssemblyInfoInputs.cache
-C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.AssemblyInfo.cs
-C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VetEnCasa.App.Persistencia.deps.json
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VetEnCasa.App.Persistencia.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VetEnCasa.App.Persistencia.pdb
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VetEnCasa.App.Dominio.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\bin\Debug\netstandard2.1\VetEnCasa.App.Dominio.pdb
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.csprojAssemblyReference.cache
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.csproj.CopyComplete
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.dll
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Persistencia\obj\Debug\netstandard2.1\VetEnCasa.App.Persistencia.pdb
