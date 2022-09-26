@@ -85,3 +85,4 @@ C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Frontend\obj\Debug\netcoreapp3.1\staticw
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\VetEnCasa.App.Frontend.StaticWebAssets.xml
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Frontend\obj\Debug\netcoreapp3.1\VetEnCasa.App.Frontend.genruntimeconfig.cache
 C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Detalles.cshtml.g.cs
+C:\Mascotas\VetEnCasa.App\VetEnCasa.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Mascotas\ListMas.cshtml.g.cs

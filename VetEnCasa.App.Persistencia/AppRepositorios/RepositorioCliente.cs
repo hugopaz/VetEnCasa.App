@@ -51,7 +51,9 @@ namespace VetEnCasa.App.Persistencia
 
         IEnumerable<Cliente> IRepositorioCliente.GetAllClientes()
         {
-            return _appContext.Clientes.Include(c => c.Mascotas);
+            return _appContext.Clientes;
+
+            //.Include(c => c.Mascotas)
         }
 
     }
